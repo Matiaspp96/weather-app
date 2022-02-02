@@ -1,0 +1,16 @@
+.App{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background: #184157;
+  background-size: auto;
+  background-repeat: repeat;
+  background-position: bottom;
+  height:100vh;
+}
+
+
+.row {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,34 @@
+.logo {
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+  background-image: url(../img/logoHenry.png) ;
+  background-repeat: no-repeat;
+}
+
+.title{
+  font-size: 30px;
+  margin: auto;
+  margin-left: 5px;
+  display: flex;
+  flex-direction: row;
+  float: left;
+  top: 50%;
+  color: rgb(213, 230, 248);
+  
+}
+
+
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  position: relative;
+  top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background: linear-gradient(to right , #335b81, #4ca1af);
+  border-radius: 8px;
+}
